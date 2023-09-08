@@ -17,4 +17,4 @@ if __name__ == '__main__':
             lst.pop()
         if cmd[0] == 'reverse':
             lst.reverse()
-            
+            #end of the code
