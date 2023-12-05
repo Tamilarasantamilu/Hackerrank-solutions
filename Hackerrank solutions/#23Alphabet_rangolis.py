@@ -1,5 +1,4 @@
-def print_rangoli(size):
-    # your code goes here
+def print_rangoli(size):
     alphabet = [chr(i) for i in range(97, 123)]
     alphabet = alphabet[:size]
     indices = list(range(size))
@@ -12,8 +11,7 @@ def print_rangoli(size):
         row = "-".join(row)
         width = size * 4-3
         row = row.center(width, "-")
-        print(row)
-
+        print(row)
 if __name__ == '__main__':
     n = int(input())
     print_rangoli(n)
