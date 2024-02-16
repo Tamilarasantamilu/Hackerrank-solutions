@@ -1,4 +1,5 @@
-def swap_case(s):
+
+ swap_case(s):
     res=''
     
     for ch in s:
@@ -13,3 +14,4 @@ if __name__ == '__main__':
     s = input()
     result = swap_case(s)
     print(result)
+#end file
