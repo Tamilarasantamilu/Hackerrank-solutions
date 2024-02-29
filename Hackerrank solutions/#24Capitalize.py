@@ -1,12 +1,9 @@
-#!/bin/python3
-
 import math
 import os
 import random
 import re
 import sys
-
-# Complete the solve function below.
+
 def solve(s):
     for name in s.split():
         s = s.replace(name, name.capitalize())
