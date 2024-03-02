@@ -1,4 +1,5 @@
-if __name__ == '__main__':
+
+ __name__ == '__main__':
     s = input()
     
     l = list(s)
@@ -22,3 +23,4 @@ if __name__ == '__main__':
     print(c)
     print(d)
     print(e)
+#end code 
