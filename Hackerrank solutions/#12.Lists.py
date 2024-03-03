@@ -1,4 +1,4 @@
-if __name__ == '__main__':
+ __name__ == '__main__':
     N = int(input())
     lst = []
     for item in range(N):
@@ -18,3 +18,5 @@ if __name__ == '__main__':
         if cmd[0] == 'reverse':
             lst.reverse()
            
+
+#end code 
