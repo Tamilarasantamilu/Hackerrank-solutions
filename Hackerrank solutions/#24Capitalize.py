@@ -1,4 +1,5 @@
-import math
+
+ math
 import os
 import random
 import re
@@ -19,3 +20,4 @@ if __name__ == '__main__':
     fptr.write(result + '\n')
 
     fptr.close()
+#endcode
