@@ -1,4 +1,5 @@
-if __name__ == '__main__':
+
+ __name__ == '__main__':
     n = int(input())
     student_marks = {}
     for _ in range(n):
@@ -9,3 +10,4 @@ if __name__ == '__main__':
     lst_marks = student_marks[query_name]
     percent = sum(lst_marks)/len(lst_marks)
     print('{p:1.2f}' .format(p = percent))
+#endcode
