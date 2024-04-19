@@ -1,4 +1,4 @@
-def minion_game(string):
+ minion_game(string):
     vowels = 'AEIOU'
     kevin_scores = stuart_scores = 0
     length = len(string)
@@ -18,3 +18,4 @@ def minion_game(string):
 if __name__ == '__main__':
     s = input()
     minion_game(s)
+#end code
