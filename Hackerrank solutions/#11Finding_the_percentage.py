@@ -10,4 +10,3 @@
     lst_marks = student_marks[query_name]
     percent = sum(lst_marks)/len(lst_marks)
     print('{p:1.2f}' .format(p = percent))
-#endcode
