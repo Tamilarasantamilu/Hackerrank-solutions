@@ -20,3 +20,4 @@ if __name__ == '__main__':
     fptr.write(result + '\n')
 
     fptr.close()
+#end code
