@@ -7,3 +7,4 @@ if __name__ == '__main__':
         if arr[i]>arr[i+1]:
             print(arr[i+1])
             break
+#end code 
