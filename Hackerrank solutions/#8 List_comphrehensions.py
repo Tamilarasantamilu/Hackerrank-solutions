@@ -1,4 +1,4 @@
-if __name__ == '__main__':
+ __name__ == '__main__':
     x = int(input())
     y = int(input())
     z = int(input())
@@ -15,3 +15,4 @@ if __name__ == '__main__':
                 if(i+j+k !=n):
                    l.append([i,j,k])
     print(l)
+#endcode
