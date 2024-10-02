@@ -1,5 +1,3 @@
-
-
 import math
 import os
 import random
@@ -15,3 +13,4 @@ if __name__ == '__main__':
         print("Weird")
     else:
         print("Not Weird")
+#end code
