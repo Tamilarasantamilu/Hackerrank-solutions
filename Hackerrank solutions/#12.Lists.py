@@ -17,4 +17,4 @@
             lst.pop()
         if cmd[0] == 'reverse':
             lst.reverse()
-#end
+#end clfe
