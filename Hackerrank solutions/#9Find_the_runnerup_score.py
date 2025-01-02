@@ -1,4 +1,4 @@
-if __name__ == '__main__':
+ __name__ == '__main__':
     n = int(input())
     arr = list(map(int, input().split()))
     
@@ -8,3 +8,4 @@ if __name__ == '__main__':
             print(arr[i+1])
             break
 #end code 
+#end herw
